@@ -1,3 +1,4 @@
+########################################################################################################
 Purely self-educational project, meant to demonstrate the prototype pattern the in Java language.
 
 It uses a wrapper object around HashMap called JynamoObject.
@@ -7,16 +8,19 @@ User defined Enum instances are used as keys.
 
 Implementations of Function and Value interfaces are used as values.
 
-Problems:
+#Problems:
 Very very verbose code.
 
-TODOs
-Have lots of fun
+#########################################################################################################
+#   TODOs                                                                                               #
+#########################################################################################################
 
-Provide mechanisms for prototype inheritance.
+->Have lots of fun
 
-Reduce verbosity with help of tapestry-plastic
+->Provide mechanisms for prototype inheritance.
 
-Implement a prototype application
+->Reduce verbosity with help of tapestry-plastic
 
+->Implement a prototype application
+#########################################################################################################
 
